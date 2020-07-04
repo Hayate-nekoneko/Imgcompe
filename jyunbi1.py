@@ -1,6 +1,7 @@
+# sota
+
 import numpy as np
 import matplotlib.pyplot as plt
-
 
 with open('../jyunbi1_fixed.wdy', 'rb') as f:
     signature = f.read(2).decode()
