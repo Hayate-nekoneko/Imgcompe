@@ -1,3 +1,5 @@
+#sota
+
 # ランレングス符号化の展開
 wether = []
 with open('../jyunbi2', 'rb') as f:
